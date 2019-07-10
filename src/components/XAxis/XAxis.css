@@ -1,0 +1,7 @@
+.xAxis {
+  fill: none;
+}
+.xAxis path {
+  stroke: #BDBDBD;
+  stroke-width: 1;
+}

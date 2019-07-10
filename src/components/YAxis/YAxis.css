@@ -1,0 +1,7 @@
+.yAxis {
+  fill: none;
+}
+.yAxis path {
+  stroke: #BDBDBD;
+  stroke-width: 1;
+}
